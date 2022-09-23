@@ -5,3 +5,16 @@ hahahahhaaa
 ######
 RRRRRRR
 FFFFF
+
+
+
+Introduction
+
+This page is mostly foundation information. It's kinda boring but essential stuff that will help you to appreciate why and how certian things behave the way they do once we start playing about with the fun stuff (which I promise we'll do in the next section). Taking the time to read and understand the material in this section will make the other sections easier to digest so persevere and it'll be well worth your time.
+
+So what are they exactly?
+Think of a script for a play, or a movie, or a TV show. The script tells the actors what they should say and do. A script for a computer tells the computer what it should do or say. In the context of Bash scripts we are telling the Bash shell what it should do.
+
+A Bash script is a plain text file which contains a series of commands. These commands are a mixture of commands we would normally type ouselves on the command line (such as ls or cp for example) and commands we could type on the command line but generally wouldn't (you'll discover these over the next few pages). An important point to remember though is:
+
+Anything you can run normally on the command line can be put into a script and it will do exactly the same thing. Similarly, anything you can put into a script can also be run normally on the command line and it will do exactly the same thing.
